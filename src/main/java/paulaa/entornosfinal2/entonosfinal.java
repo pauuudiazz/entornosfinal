@@ -30,7 +30,7 @@ break;
 default:
 System.out.println("Esperando el fin de semana");
 }
-        /*REALIZAMOS CAMBIOS */
+        /*REALIZAMOS  CAMBIOS */
 
     }
 
